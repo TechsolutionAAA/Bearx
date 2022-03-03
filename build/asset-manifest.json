@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/static/js/main.cbabf88a.chunk.js",
+    "main.js.map": "/static/js/main.cbabf88a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.357912e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.357912e8.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.80218fb6.chunk.js": "/static/js/2.80218fb6.chunk.js",
+    "static/js/2.80218fb6.chunk.js.map": "/static/js/2.80218fb6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/js/2.80218fb6.chunk.js.LICENSE.txt": "/static/js/2.80218fb6.chunk.js.LICENSE.txt",
+    "static/media/1.f20c805f.jpeg": "/static/media/1.f20c805f.jpeg",
+    "static/media/2.3af6d931.jpeg": "/static/media/2.3af6d931.jpeg",
+    "static/media/3.a1ce5e96.jpeg": "/static/media/3.a1ce5e96.jpeg",
+    "static/media/4.57fe19e0.jpeg": "/static/media/4.57fe19e0.jpeg",
+    "static/media/5.25917235.jpeg": "/static/media/5.25917235.jpeg",
+    "static/media/6.434e6efe.jpeg": "/static/media/6.434e6efe.jpeg",
+    "static/media/Group 36810.b457a0d0.png": "/static/media/Group 36810.b457a0d0.png",
+    "static/media/Group 36812.219cdeaf.png": "/static/media/Group 36812.219cdeaf.png",
+    "static/media/Group 36814.135f7342.png": "/static/media/Group 36814.135f7342.png",
+    "static/media/Group 36896.f9b16d97.png": "/static/media/Group 36896.f9b16d97.png",
+    "static/media/Rectangle 42 (1).cf1aed80.png": "/static/media/Rectangle 42 (1).cf1aed80.png",
+    "static/media/Rectangle 42.9bc74cec.png": "/static/media/Rectangle 42.9bc74cec.png",
+    "static/media/akeem.04ac9a98.png": "/static/media/akeem.04ac9a98.png",
+    "static/media/banner.7b8cdea0.gif": "/static/media/banner.7b8cdea0.gif",
+    "static/media/bear1.1a1e125d.jpg": "/static/media/bear1.1a1e125d.jpg",
+    "static/media/logo.aef8db2e.png": "/static/media/logo.aef8db2e.png",
+    "static/media/lore-banner.3a79b435.jpg": "/static/media/lore-banner.3a79b435.jpg",
+    "static/media/mint.a0a2fe97.ce692363.gif": "/static/media/mint.a0a2fe97.ce692363.gif",
+    "static/media/mint.a0a2fe97.gif": "/static/media/mint.a0a2fe97.gif",
+    "static/media/plus.403e8060.png": "/static/media/plus.403e8060.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.357912e8.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.80218fb6.chunk.js",
+    "static/js/main.cbabf88a.chunk.js"
+  ]
+}

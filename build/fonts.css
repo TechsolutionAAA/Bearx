@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Lo-Res";
+  src: local("Lo-Res 12 OT Narrow Regular"),
+    local("Lo-Res-12-OT-Narrow-Regular"),
+    url("fonts/LoRes12OTNarrow-Regular.woff2") format("woff2"),
+    url("fonts/LoRes12OTNarrow-Regular.woff") format("woff"),
+    url("fonts/LoRes12OTNarrow-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
